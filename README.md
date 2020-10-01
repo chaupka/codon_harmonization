@@ -6,3 +6,6 @@ For conversion of codon usage tables from kazusa.or.jp you need to check the 'A 
 Requires Python3 and modules:
 - Biopython
 - matplotlib
+
+# DOI
+10.5281/zenodo.4062177
