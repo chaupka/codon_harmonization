@@ -8,4 +8,4 @@ Requires Python3 and modules:
 - matplotlib
 
 # DOI
-10.5281/zenodo.4062177
+https://doi.org/10.5281/zenodo.4062177
